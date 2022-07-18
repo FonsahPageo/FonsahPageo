@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FonsahPageo
-- 👀 I’m interested in data science and data analysis, AI and machine learning, mobile application development
-- 🌱 I’m currently learning Python, WordPress, flutter using dart
+- 👀 I’m interested in data science and data analysis, AI and machine learning, data security
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on skill building projects
 - 📫 Email me at ashprincepageo@gmail.com or whatsapp through +237675416098
 

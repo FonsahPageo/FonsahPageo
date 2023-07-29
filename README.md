@@ -2,6 +2,7 @@
 - 👀 I’m interested in data science and data analysis, AI and machine learning, data security
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on skill building projects
+- 📝 Currently learning Cloud computing with AWS
 - 📫 Email me at ashprincepageo@gmail.com or whatsapp through +237675416098
 
 <!---
